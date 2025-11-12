@@ -1,4 +1,4 @@
-print("Első szám")
+"""print("Első szám")
 szam1=int(input())
 print("Második szám")
 szam2=int(input())
@@ -10,4 +10,4 @@ print(szam1%szam2)
 
 x=int(input())
 3*(x-4)+8
-6-2*(5-2*x)
+6-2*(5-2*x)"""

@@ -1,4 +1,4 @@
-'''import math
+"""'''import math
 
 print(round(math.sqrt(10),2))
 
@@ -14,4 +14,5 @@ V=a*b*c
 
 print("A téglatest felszíne:",A,"cm2") 
 print("A téglatest térfogata:",V,"cm3")
-
+""""""
+"""
