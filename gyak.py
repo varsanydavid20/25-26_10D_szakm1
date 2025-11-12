@@ -1,3 +1,4 @@
+
 """szam1=float(input("Kérem az első számot: "))
 szam2=float(input("Kérem a második számot: "))
 if szam1>szam2:
@@ -35,3 +36,4 @@ if tipp == dobas:
     print("Nyertél!")
 else:
     print("Vesztettél!")"""
+
