@@ -6,7 +6,7 @@ for i in range(len(Lszamok)):
     """
 
 
-import random
+"""import random
 
 lszamok=[]
 for i in range(10):
@@ -14,4 +14,4 @@ for i in range(10):
     lszamok.append(random.randint(1,100))
 print(lszamok)
 print("első szám:",lszamok[0])
-print("utolsó szám:",lszamok[-1])
+print("utolsó szám:",lszamok[-1])"""
