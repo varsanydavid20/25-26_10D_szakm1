@@ -18,6 +18,7 @@ jelszo=input("Kérek egy jelszót: ")
         if vankkis and vannagyis and vanszam:
             print("A jelszo eros.")"""
 
+
 """2. név=input("Kérek egy nevet: ")
 helyesnév=név.title()
 print("A helyes név:",helyesnév)
