@@ -12,9 +12,9 @@ for i in range(3):
     hossz = int(input(f"{i+1}. film hossza (perc): "))
     filmek.append((cim, hossz))
 
-print("\nFilmek hosszának átalakítása:")
+print("Filmek hosszának átalakítása:")
 for cim, hossz in filmek:
     atalakitas = perc_to_ora_perc(hossz)
     print(f"{cim}: {hossz} perc = {atalakitas}")
 
-"""
+"""     
